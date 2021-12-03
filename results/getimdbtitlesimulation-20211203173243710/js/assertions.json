@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetImdbTitleSimulation",
+  "simulationId": "getimdbtitlesimulation",
+  "start": 1638552763710,
+  "description": "Titles request",
+  "scenarios": ["Get Title test"],
+  "assertions": [
+
+  ]
+}

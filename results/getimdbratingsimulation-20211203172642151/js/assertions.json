@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetImdbRatingSimulation",
+  "simulationId": "getimdbratingsimulation",
+  "start": 1638552402151,
+  "description": "",
+  "scenarios": ["Get Rating test"],
+  "assertions": [
+
+  ]
+}

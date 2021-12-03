@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SearchMovieSimulation",
+  "simulationId": "searchmoviesimulation",
+  "start": 1638553520798,
+  "description": "Saerch",
+  "scenarios": ["Search"],
+  "assertions": [
+
+  ]
+}
